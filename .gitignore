@@ -1,0 +1,15 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+/.export_credentials.sh
+.idea
+.DS_Store
+project2/export_credentials.sh
